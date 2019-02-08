@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com" name="github"/>
+  <remote fetch="http://git.openembedded.org" name="oe"/>
+  <remote fetch="https://github.com/STMicroelectronics" name="OpenSTLinux"/>
+  
+  <default remote="OpenSTLinux"/>
+  
+  <project name="TimesysGit/meta-timesys" path="layers/meta-timesys" remote="github" revision="bf220e124514ae8129b172a5281219007421000f"/>
+  <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="afee3f594e1510051a0b18e430e92549caf72fa2"/>
+  <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="f1511d254632a34c1deb51f4bf8b8c21e7423f51"/>
+  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="fd1f0f47312e7ee80e5ca65b8b2992cb068b1656"/>
+  <project name="devicetree-addons" path="layers/meta-st/meta-st-stm32mp-addons/devicetree-addons" revision="cc76f890a1ed879993961d12d2b37b9f692f9b13"/>
+  <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="4e36cf0c7c7bdb24700a990f73afcda84cdcf0cf"/>
+  <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="dcc955d6992cc46ce07440caaa5a17942776bbe6"/>
+  <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="e08e905861221c5790e08800002c05328365d9aa"/>
+  <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="e1055b0af6c0d7e770ad0d50e18da84771896f11"/>
+  <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="f0394e80a37f1da47042a1aa0487594f390603f9"/>
+
+</manifest>
