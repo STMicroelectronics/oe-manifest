@@ -13,7 +13,7 @@
   <project name="devicetree-addons" path="layers/meta-st/meta-st-stm32mp-addons/devicetree-addons" revision="cc76f890a1ed879993961d12d2b37b9f692f9b13"/>
   <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="4e36cf0c7c7bdb24700a990f73afcda84cdcf0cf"/>
   <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="dcc955d6992cc46ce07440caaa5a17942776bbe6"/>
-  <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="e08e905861221c5790e08800002c05328365d9aa"/>
+  <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="fdaf22bdb1d832893be7b9dc74a4bba0a6ea5065"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="e1055b0af6c0d7e770ad0d50e18da84771896f11"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="f0394e80a37f1da47042a1aa0487594f390603f9"/>
 
