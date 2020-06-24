@@ -6,13 +6,13 @@
   
   <default remote="OpenSTLinux"/>
   
-  <project name="TimesysGit/meta-timesys" path="layers/meta-timesys" remote="github" revision="31d5742812e2b21bb67b7379f7f6f74689b32074"/>
-  <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="6b045e074c6fea97d4e305a5a3c8bf82135d95eb"/>
-  <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="436cf0aa2b2802da706588d4daa1a8240d172df8"/>
-  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="1520d5b2b2beec5e1c3209d3178219e93ef08bca"/>
-  <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="f023f39b13fa13f6391be5fbc10fb2bf7369402a"/>
-  <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="8055ad11c92144e4a147a00834de53a2de21e42d"/>
-  <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="ef975cf09260b1e30a21384d2b1e751e6729d219"/>
-  <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="1eb70bb452a0eb3c0cde5b62c9a96c54b91fc334"/>
-  <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="cd7cf933b3235560ec71576d8f3836dff736a39f"/>
+  <project name="TimesysGit/meta-timesys" path="layers/meta-timesys" remote="github" revision="83d534e4eaf54685e956b8a77b61a40b06ad42ec"/>
+  <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="4618da2094189e4d814b7d65672cb65c86c0626a"/>
+  <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="b5f510e48080b6dc710ff4800feb90ef679c5456"/>
+  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="ac7514e2bc295c97faa86d24e8823829257adbb8"/>
+  <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="5465ed3781355776cb46d2cc45884b1ccc1011cd"/>
+  <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="7a1ab80ccb655e9cd28c9ea8a4a83fca48c48b11"/>
+  <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="2b992cde26a4df9da34d8baee8491b3d9bc8f109"/>
+  <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="b600010fa49e2bd4d3f10b732405200de974d3e2"/>
+  <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="1795f30d8ab73d35710ca99064c51190dc84853e"/>
 </manifest>
