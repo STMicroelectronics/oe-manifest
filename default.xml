@@ -6,12 +6,12 @@
   
   <default remote="OpenSTLinux"/>
   
-  <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="a394eeec6aeb98c6395cb5da2036ce936bdaa0a0"/>
-  <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="5bba79488b7d393d2258d6e917f7bf7b0d7c4073"/>
-  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="0d8eb956015acdea7e77cd6672d08dce18061510"/>
+  <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="0e0af15b84e07e6763300dcd092b980086b9b9c4"/>
+  <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="c38d2a74f762a792046f3d3c377827b08aade513"/>
+  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="b4d24d70aca75791902df5cd59a4f4a54aa4a125"/>
   <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="3d772ac02e01e1a76e6888fcabb2d5fa26f1c579"/>
-  <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="c44b9052ae3b262d5e73212c696e79f0890a018b"/>
+  <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="816fd629ab31700a5c08442b29f6906e95c31df0"/>
   <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="81065195a63e98be8f423ab422960e9d7896f4d5"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="d2ba39bc40952ff6eb06d2b0e496910a74209660"/>
-  <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="72431ee8de5e3a53d259cebf420a7713ac9e1f14"/>
+  <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="ac8181d9b9ad8360f7dba03aba8b00f008c6ebb4"/>
 </manifest>
