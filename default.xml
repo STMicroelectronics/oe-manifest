@@ -6,12 +6,12 @@
   
   <default remote="OpenSTLinux"/>
   
-  <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="ac576d6fad6bba0cfea931883f25264ea83747ca"/>
-  <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="05dcac98473402d87e0af73bbc2c5a6a840abe93"/>
-  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="5b71df60e523423b9df6793de9387f87a149ac42"/>
-  <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="cb736b403d0fef2a02390695613b6b4bb13ca1b7"/>
-  <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="ca501bd7dbe023682903ceedddaacd940b0898f4"/>
-  <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="f1a18b73343afd8dd5f9aa7f5b605d139fb9e4a8"/>
-  <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="bc063e7af04d04aff66401eb73610381bebc49a0"/>
-  <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="f7766da462905ec67bf549d46b8017be36cd5b2a"/>
+  <project name="bitbake" path="layers/openembedded-core/bitbake" remote="oe" revision="d97d62e2cbe4bae17f0886f3b4759e8f9ba6d38c"/>
+  <project name="meta-openembedded" path="layers/meta-openembedded" remote="oe" revision="c032fd0b1a9d444711103c2703dfa8e2964a3865"/>
+  <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github" revision="cf6ffcbad5275a3428f6046468a0c9d572e813d1"/>
+  <project name="meta-st-openstlinux" path="layers/meta-st/meta-st-openstlinux" revision="8c780facff81d3c3878c5fdcd18bdd24fc36478d"/>
+  <project name="meta-st-stm32mp" path="layers/meta-st/meta-st-stm32mp" revision="931b3f5be2c00f55d114c8f9122082a9d229b776"/>
+  <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="862cd4091f1c7ead34051ce27291bc61f60d8ac9"/>
+  <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="f7087ffb2c9f71fa6bdee738f48ce620ddfe142a"/>
+  <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="20cd64812d286c920bd766145ab1cd968e72667e"/>
 </manifest>
